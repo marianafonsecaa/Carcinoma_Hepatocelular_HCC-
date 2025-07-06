@@ -4,7 +4,8 @@
 
 ## Descrição do Projeto
 
-Este projeto foi desenvolvido como parte da unidade curricular "Elementos de Inteligência Artificial e Ciência de Dados" da Licenciatura em Inteligência Artificial e Ciência de Dados.  
+Este projeto foi desenvolvido como parte da unidade curricular "Elementos de Inteligência Artificial e Ciência de Dados" da Licenciatura em Inteligência Artificial e Ciência de Dados.
+Foi avaliado em 20/20. 
 
 O objetivo é desenvolver um pipeline completo de ciência de dados para prever a sobrevivência de pacientes com Carcinoma Hepatocelular (HCC) um ano após o diagnóstico.
 
